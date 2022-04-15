@@ -4,7 +4,7 @@
 function two_min(l){
     var a = l.MIN_VALUE ;
     
-    var b = ;
+    var b = 3;
     return(a)
 
 }
