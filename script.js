@@ -3,7 +3,7 @@
 // huffman algorithm
 function two_min(l){
     var a = l.MIN_VALUE ;
-    console.log(a)
+    console.log(a);
     var b = ;
     
 
