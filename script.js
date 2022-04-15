@@ -3,13 +3,13 @@
 // huffman algorithm
 function two_min(l){
     var a = l.MIN_VALUE ;
-    console.log(a);
-    var b = ;
     
+    var b = ;
+    return(a)
 
 }
 
-two_min([443,55,2,55,33])
+console.log(two_min([443,55,2,55,33]))
 
 function encode(text){
     const encoded = {};
