@@ -7,9 +7,8 @@ function two_min(l){
     var b = 3;
     return a ;
 
-}
-
-console.log(two_min([443,55,2,55,33]);
+}const b = [443,55,2,55,33]
+console.log(two_min(b);
 
 function encode(text){
     const encoded = {};
