@@ -1,8 +1,8 @@
 // encoding message
 
 // huffman algorithm
-functon two_min(list){
-    var a = list.MIN_VALUE ;
+function two_min(l){
+    var a = l.MIN_VALUE ;
     console.log(a)
     var b = ;
     
@@ -12,6 +12,6 @@ functon two_min(list){
 two_min([443,55,2,55,33])
 
 function encode(text){
-    Array encoded = {};
+    const encoded = {};
     
 }
