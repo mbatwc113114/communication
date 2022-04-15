@@ -2,7 +2,7 @@
 
 // huffman algorithm
 function two_min(l){
-    var a = l.MIN_VALUE ;
+    var a = Math.min(l) ;
     
     var b = 3;
     return a ;
